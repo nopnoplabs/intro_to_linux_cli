@@ -4,6 +4,10 @@ Welcome! This hands-on workshop is made up of several execises designed to explo
 
 This workshop is developed on an Ubuntu 20.04 LTS virtual server, but emphasis has been placed on tools that are ubiquitous across many distributions of linux.
 
-##1. VI
+To use the sample files and scripts, clone this repo:
+
+`git clone https://github.com/nopnoplabs/intro_to_linux_cli.git`
+
+##Module 1: VI
 
 Like vee eye.  Magnum V.I. V.I. Joe. An editor that can do many things - including inducing fits of vigorous cursing if not handled well. Let's learn the basics of VI.

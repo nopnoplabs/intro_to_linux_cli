@@ -11,26 +11,69 @@ operate only while vi is in command mode. You switch vi to input mode by **typin
 
 **To exit input mode, press the escape (Esc) key.**
 
+###Activities:
+####open a file:
 
-open a file in vim vi file.txt
-navigation
-h left 
-j down one line
-k up on line
-i right one space
-how to quit vi (:q)
+`vi cars.md`
 
-saving files in vim, and other ways of exiting
+####navigate your file:
 
-Insert line above
-insert line below
+`H` left one space
+`J` down one line
+`K` up on line
+`L` right one space
 
-how to delete a single line with vim (dd)
-how to delete multiple lines with vim (#dd, e.g. 5dd)
+####change between command mode and insert mode
 
-how to undo changes in vim (u)
-how to 'redo' changes (ctrl-r)
+`i` insert mode 
+`ESC` command mode
 
-searching text in vim ( /yourtext + ENTER)
-how to find and replace text in vim ( :%s/yourtext/replacetext/g (+c))
+####Exiting files:
 
+Exit without saving:
+
+`:q!`
+
+Save and exit:
+
+`:x` or `:wq`
+
+####Insert line above
+
+`O`
+
+####insert line below
+
+`O`
+
+####how to delete a single line 
+
+`dd`
+
+####how to delete multiple lines 
+
+To delete 5 lines:
+`5dd`
+
+####how to undo changes
+
+`u`
+
+####how to 'redo' changes
+
+`ctrl-r`
+
+####Searching for text 
+
+Try searching for Ferrari
+
+`/Ferrari + ENTER`
+
+You can use `n` to move to the next search result. 
+
+####Find and replace text in vi 
+
+Try replacing "Ferarri" with "Magnum PI car"
+
+`:g/Ferrari/s//Magnum PI car/g `
+
