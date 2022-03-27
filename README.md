@@ -1,40 +1,5 @@
-# The Linux Command Line
+# Introduction to the Linux Command Line
 
-Intro - get files/unpack files
+Welcome! This hands-on workshop is made up of several execises designed to explore the linux command line. Modules may be added and changed over time as demand dictates - your feedback is welcomed and encouraged!
 
-##Files
-
-#####Get Files
-
-curl or git or whatever
-
-#####Unpack lab files
-
-tar/zip/gzip
-
-#####List files 
-ls 
-
-pwd
-
-rm 
-
-cp
-
-mv
-
-ln
-
-touch
-
-cat
-
-less
-
-head
-
-tail
-
-##VI
-Edit files with VI
-
+This workshop is developed on an Ubuntu 20.04 LTS virtual server, but emphasis has been placed on tools that are ubiquitous across many distributions of linux.
