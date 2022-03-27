@@ -3,3 +3,7 @@
 Welcome! This hands-on workshop is made up of several execises designed to explore the linux command line. Modules may be added and changed over time as demand dictates - your feedback is welcomed and encouraged!
 
 This workshop is developed on an Ubuntu 20.04 LTS virtual server, but emphasis has been placed on tools that are ubiquitous across many distributions of linux.
+
+##1. VI
+
+Like vee eye.  Magnum V.I. V.I. Joe. An editor that can do many things - including inducing fits of vigorous cursing if not handled well. Let's learn the basics of VI.
