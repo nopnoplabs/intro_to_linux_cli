@@ -18,10 +18,10 @@ operate only while vi is in command mode. You switch vi to input mode by **typin
 
 ####navigate your file:
 
-`H` left one space
 `J` down one line
 `K` up on line
 `L` right one space
+`H` left one space
 
 ####change between command mode and insert mode
 
@@ -38,11 +38,11 @@ Save and exit:
 
 `:x` or `:wq`
 
-####Insert line above
+####Insert a line above
 
 `O`
 
-####insert line below
+####insert a line below
 
 `O`
 
