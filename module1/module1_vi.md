@@ -12,7 +12,7 @@ operate only while vi is in command mode. You switch vi to input mode by **typin
 **To exit input mode, press the escape (Esc) key.**
 
 ### Activities:
-#### open a file:
+#### Open a file
 
 `vi cars.md`
 
@@ -38,19 +38,18 @@ Save and exit:
 
 `:x` or `:wq`
 
-<<<<<<< HEAD
-####Insert a line above
+
+#### Insert a line above
 
 `O`
 
-####insert a line below
-=======
+#### insert a line below
+
 #### Insert line above
 
 `O`
 
 #### insert line below
->>>>>>> 8ee8348b034bfd3b7788f82123b43f0bd35b9d58
 
 `O`
 
