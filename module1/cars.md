@@ -1,4 +1,4 @@
-*Cars From Gone in 60 Seconds
+*Cars From Gone in 60 Seconds*
 
 1. Mary: 1999 Aston Martin DB7.
 2. Barbara: 1962 Aston Martin DB1.
