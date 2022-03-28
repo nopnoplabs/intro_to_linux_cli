@@ -8,6 +8,10 @@ To use the sample files and scripts, clone this repo:
 
 `git clone https://github.com/nopnoplabs/intro_to_linux_cli.git`
 
-##Module 1: VI
+## Module 1: VI
 
 Like vee eye.  Magnum V.I. V.I. Joe. An editor that can do many things - including inducing fits of vigorous cursing if not handled well. Let's learn the basics of VI.
+
+Module1_vi.md has exercises and is contained in the module1 folder. 
+
+## Module 2: Files
