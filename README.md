@@ -14,4 +14,8 @@ Like vee eye.  Magnum V.I. V.I. Joe. An editor that can do many things - includi
 
 Module1_vi.md has exercises and is contained in the module1 folder. 
 
-## Module 2: Files
+## Module 2: Files and Redirection
+
+## Module 3: Users & System
+
+## Module 4: Processes
