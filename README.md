@@ -16,6 +16,14 @@ Module1_vi.md has exercises and is contained in the module1 folder.
 
 ## Module 2: Files and Redirection
 
-## Module 3: Users & System
+Creating and navigating files and folders. Introducing the concept of io redirection with STDOUT.
 
-## Module 4: Processes
+Module2_files.md has exercises and is contained in the module2 folder.
+
+## Module 3: Networking
+
+View open connections. Capture packets. Send and receive files.
+
+## Module 4: System & Processes
+
+Check basic system vitals. Create users. 
