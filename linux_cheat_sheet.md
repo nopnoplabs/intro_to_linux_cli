@@ -1,10 +1,24 @@
-### vi
+### files
 
+| #files  |                         |
+|--------|--------------------------|
+| ls     | list directory           |
+| pwd    | print working directory  |
+| cp     | copy file                |
+| mv     | move file                |
+| mkdir  | make directory           |
+| rm     | remove file or directory |
+| ln     | link file                |
+| touch  | create file              |
+| cat    | concatenate files      |
+| less  | display a page at a time      |
+| head | first 10 lines of a file | 
+| tail | last 10 lines of a file | 
+| file | identify a file type |
 
+### file system
 
-### File System
-
- location  function
+ location  function   
 /          root folder    
     /bin    executable files      
     /boot   static bootloader   
@@ -32,3 +46,23 @@
 | 5 | read, execute      |
 | 6 | read, write      |
 | 7 | read, write, execute      |
+
+### Search
+
+| #search |  |
+|---|------------|
+| grep | match pattern       |
+| locate | locate using db    |
+| find | search for files      |
+| apropos| search man pages for keywords      |
+| whatis| first line of man page      |
+| man | manual pages - documentation |
+
+### redirection
+
+| #redirection |  |
+|---|------------|
+| > | none       |
+| >> | execute    |
+| 2> | write      |
+| | | write, execute
